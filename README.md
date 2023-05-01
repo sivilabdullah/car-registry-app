@@ -2,12 +2,14 @@
 
 This application stores the photos, names, production years, and brands of cars using Core Data. It also uses a TableViewCell to display the list of cars and a detailed view to show the detailed information of each car.
 
-## Features
+## Screenshots
+| Example | Example |
+| ------- | ------- |
+|![Screenshot 2023-05-01 at 8 35 12 AM](https://user-images.githubusercontent.com/57291537/235413028-8c221468-d417-47e6-a955-7b77e0493fba.png) |![Screenshot 2023-05-01 at 8 33 52 AM](https://user-images.githubusercontent.com/57291537/235413040-136dd67d-0ab7-490c-9a53-166d9f75b280.png) |
 
-![Screenshot 2023-05-01 at 8 35 12 AM](https://user-images.githubusercontent.com/57291537/235413028-8c221468-d417-47e6-a955-7b77e0493fba.png)
-![Screenshot 2023-05-01 at 8 33 52 AM](https://user-images.githubusercontent.com/57291537/235413040-136dd67d-0ab7-490c-9a53-166d9f75b280.png)
-![Screenshot 2023-05-01 at 8 41 45 AM](https://user-images.githubusercontent.com/57291537/235413044-7cc7f3b1-c2a3-4102-83c3-c09193133b90.png)
-![Screenshot 2023-05-01 at 8 50 02 AM](https://user-images.githubusercontent.com/57291537/235413167-5300a811-4ebc-4001-9e96-401a0d5e4252.png)
+| Registration Screen | List Screen |
+| ------- | ------- |
+| ![Screenshot 2023-05-01 at 8 41 45 AM](https://user-images.githubusercontent.com/57291537/235413044-7cc7f3b1-c2a3-4102-83c3-c09193133b90.png) | ![Screenshot 2023-05-01 at 8 50 02 AM](https://user-images.githubusercontent.com/57291537/235413167-5300a811-4ebc-4001-9e96-401a0d5e4252.png)|
 
 ## Features
 
